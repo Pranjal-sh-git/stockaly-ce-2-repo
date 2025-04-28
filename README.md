@@ -1,3 +1,8 @@
+# STOCKALY 
+Stockaly is a powerful Inventory Management System built using Django, designed to simplify stock tracking and management. It combines Python for backend logic, HTML and CSS for a clean and responsive user interface, and JavaScript for interactive features. Stockaly helps businesses efficiently manage products, monitor inventory levels, and streamline operations with an intuitive dashboard and real-time updates.
+
+
+
 
 ## Deployment
 
@@ -28,4 +33,3 @@ To deploy this project run
   python manage.py runserver
 ```
 6. You are all set , also you can check the requirements.txt file for the essential requirements for the project.
- 
